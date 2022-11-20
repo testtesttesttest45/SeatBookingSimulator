@@ -6,8 +6,8 @@ Data Structure and Algorithm
 + Safe Distance Mode
 
 ###
-Open ``` SeatBookingSimulator.sln``` using Visual Studio 2022. 
-> Then click Play.
+Open ``` SeatBookingSimulator.sln``` from the root folder using Visual Studio 2022. 
+> Then click Play or press F5
 
 ### Screenshots
 ![Completions](CompletionScreenshots/SeatBookingSimulator.png)
