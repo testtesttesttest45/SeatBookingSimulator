@@ -2,11 +2,12 @@
 Data Structure and Algorithm
 
 
-> Normal Mode
-> Safe Distance Mode
++ Normal Mode
++ Safe Distance Mode
 
 ###
-Open ``` SeatBookingSimulator.sln``` using Visual Studio 2022. Then click Play.
+Open ``` SeatBookingSimulator.sln``` using Visual Studio 2022. 
+> Then click Play.
 
 ### Screenshots
-![Completions](CompletionScreenshots/SeatBookingSimulator.png.png)
+![Completions](CompletionScreenshots/SeatBookingSimulator.png)
